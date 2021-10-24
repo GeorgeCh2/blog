@@ -6,6 +6,6 @@
 - Email：[georgechmr@gmail.com](georgechmr@gmail.com)
 - Blog：[https://https://georgech2.github.io/](https://https://georgech2.github.io/)
 ## 最近更新
-- [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/1)--2021-10-12
+- [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/2)--2021-10-24
 ## 日常记录
-- [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/1)--2021-10-12
+- [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/2)--2021-10-24
