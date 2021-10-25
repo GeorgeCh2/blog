@@ -6,7 +6,10 @@
 - Email：[georgechmr@gmail.com](georgechmr@gmail.com)
 - Blog：[https://https://georgech2.github.io/](https://https://georgech2.github.io/)
 ## 最近更新
+- [FFmpeg 自定义命令行参数](https://github.com/GeorgeCh2/blog/issues/4)--2021-10-25
 - [FFmpeg 解析命令行参数流程](https://github.com/GeorgeCh2/blog/issues/3)--2021-10-25
 - [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/2)--2021-10-24
+## 技术相关
+- [FFmpeg 解析命令行参数流程](https://github.com/GeorgeCh2/blog/issues/3)--2021-10-25
 ## 日常记录
 - [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/2)--2021-10-24
