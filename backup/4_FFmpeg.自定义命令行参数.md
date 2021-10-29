@@ -1,6 +1,7 @@
 # [FFmpeg 自定义命令行参数](https://github.com/GeorgeCh2/blog/issues/4)
 
 我们在使用 FFmpeg 的时候，会发现 FFmpeg 有些库的性能并不是特别的好，可能就想要使用其他性能更好的第三方SDK 或 自己开发的SDK来替换。这时可能 FFmpeg 的默认命令行参数并不能我们的需求，就需要自定义命令行参数。那么如何来自定义命令行参数达到我们的需求呢？
+
 此次我们在 FFmpeg 中增加了 libyuv 的图像缩放算法，那么就可以在 swscale_options[]（FFmpeg 内置 swscale 过滤器相关参数数组） 中添加一个 “scale_method” 用来选择图像缩放算法。
 
 **添加参数前，需要先做一些前置动作**：
