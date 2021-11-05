@@ -97,4 +97,4 @@ heif-enc：支持转换成 heif文件（因为没有编译h265编码库，目前
 
 
 
-> 上面编译的脚步已经整理到了github：https://github.com/GeorgeCh2/libheif-static-complie
+> 上面编译的脚本已经整理到了github：https://github.com/GeorgeCh2/libheif-static-complie
