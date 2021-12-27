@@ -10,7 +10,7 @@ MD_HEAD = """**<p align="center">[George's Blog](https://https://georgech2.githu
 ## 联系方式
 - Twitter：[@georgezh](https://twitter.com/georgezh5)
 - Email：[georgechmr@gmail.com](georgechmr@gmail.com)
-- Blog：[https://https://georgech2.github.io/](https://https://georgech2.github.io/)
+- Blog：[https://georgech2.github.io/](https://georgech2.github.io/)
 """
 
 BACKUP_DIR = "backup"
