@@ -4,7 +4,7 @@
 ## 联系方式
 - Twitter：[@georgezh](https://twitter.com/georgezh5)
 - Email：[georgechmr@gmail.com](georgechmr@gmail.com)
-- Blog：[https://https://georgech2.github.io/](https://https://georgech2.github.io/)
+- Blog：[https://georgech2.github.io/](https://georgech2.github.io/)
 ## 最近更新
 - [自己动手编译一个HEIF图片转jpeg工具(Mac平台)](https://github.com/GeorgeCh2/blog/issues/6)--2021-11-05
 - [谨慎使用 Arrays.asList() 和 Collections.singletonList()](https://github.com/GeorgeCh2/blog/issues/5)--2021-11-05
