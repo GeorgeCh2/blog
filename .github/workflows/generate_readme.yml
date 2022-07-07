@@ -51,11 +51,9 @@ jobs:
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}'
         
       - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: ":memo:Refresh README AND BACKUP"
-          files: README.md backup/
-          rebase: 'true'
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+        run: |
+          git config --local user.name georgechou
+          git config --local user.email georgechmr@gmail.com
+          git add .
+          git commit -m "generated readme" || echo "no need to commit "
+          git push || echo "no file change"
