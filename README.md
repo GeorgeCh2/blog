@@ -1,4 +1,4 @@
-**<p align="center">[George's Blog](https://https://georgech2.github.io/)</p>**
+**<p align="center">[George's Blog](https://georgech2.github.io/)</p>**
 **<p align="center">无限进步，自由生活~</p>**
 
 ## 联系方式
