@@ -1,4 +1,4 @@
-**<p align="center">[George's Blog](https://georgech2.github.io/)</p>**
+**<p align="center">[George's Blog](https://https://georgech2.github.io/)</p>**
 **<p align="center">无限进步，自由生活~</p>**
 
 ## 联系方式
@@ -6,11 +6,11 @@
 - Email：[georgechmr@gmail.com](georgechmr@gmail.com)
 - Blog：[https://georgech2.github.io/](https://georgech2.github.io/)
 ## 最近更新
+- [【个人观感】七月我看了什么](https://github.com/GeorgeCh2/blog/issues/14)--2022-08-06
 - [工作中遇到的技术问题](https://github.com/GeorgeCh2/blog/issues/13)--2022-07-07
 - [视频转码 Nvidia GPU 硬件加速研究](https://github.com/GeorgeCh2/blog/issues/12)--2022-03-17
 - [自定义数据库加密插件](https://github.com/GeorgeCh2/blog/issues/11)--2022-03-17
 - [Sharing-JDBC 数据分片使用指南](https://github.com/GeorgeCh2/blog/issues/10)--2022-03-17
-- [R2S + K2P 搭建家庭网络](https://github.com/GeorgeCh2/blog/issues/9)--2022-03-10
 ## 多媒体技术
 - [视频转码 Nvidia GPU 硬件加速研究](https://github.com/GeorgeCh2/blog/issues/12)--2022-03-17
 - [自己动手编译一个HEIF图片转jpeg工具(Mac平台)](https://github.com/GeorgeCh2/blog/issues/6)--2021-11-05
@@ -25,5 +25,6 @@
 ## 折腾
 - [R2S + K2P 搭建家庭网络](https://github.com/GeorgeCh2/blog/issues/9)--2022-03-10
 ## 日常记录
+- [【个人观感】七月我看了什么](https://github.com/GeorgeCh2/blog/issues/14)--2022-08-06
 - [ 一个普通程序员的2021](https://github.com/GeorgeCh2/blog/issues/8)--2022-01-05
 - [我眼中的现代婚礼](https://github.com/GeorgeCh2/blog/issues/2)--2021-10-24
