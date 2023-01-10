@@ -26,7 +26,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10.9
+          python-version: 3.8
 
       - name: Configure pip cache
         uses: actions/cache@v1
@@ -52,8 +52,8 @@ jobs:
         
       - name: Push README
         run: |
-          git config --local user.name georgechou
-          git config --local user.email georgechmr@gmail.com
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git add .
           git commit -m "generated readme" || echo "no need to commit "
           git push || echo "no file change"
