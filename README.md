@@ -6,11 +6,13 @@
 - Email：[georgechmr@gmail.com](georgechmr@gmail.com)
 - Blog：[https://georgech2.github.io/](https://georgech2.github.io/)
 ## 最近更新
+- [2023 年周记](https://github.com/GeorgeCh2/blog/issues/15)--2023-01-10
 - [【个人观感】七月我看了什么](https://github.com/GeorgeCh2/blog/issues/14)--2022-08-06
 - [工作中遇到的技术问题](https://github.com/GeorgeCh2/blog/issues/13)--2022-07-07
 - [视频转码 Nvidia GPU 硬件加速研究](https://github.com/GeorgeCh2/blog/issues/12)--2022-03-17
 - [自定义数据库加密插件](https://github.com/GeorgeCh2/blog/issues/11)--2022-03-17
-- [Sharing-JDBC 数据分片使用指南](https://github.com/GeorgeCh2/blog/issues/10)--2022-03-17
+## 周记
+- [2023 年周记](https://github.com/GeorgeCh2/blog/issues/15)--2023-01-10
 ## 多媒体技术
 - [视频转码 Nvidia GPU 硬件加速研究](https://github.com/GeorgeCh2/blog/issues/12)--2022-03-17
 - [自己动手编译一个HEIF图片转jpeg工具(Mac平台)](https://github.com/GeorgeCh2/blog/issues/6)--2021-11-05
